@@ -28,7 +28,7 @@ Je suis développeur web freelance avec une expertise en front-end, passionné p
 
 - **Email :** [aymeric.martinache@gmail.com](mailto:aymeric.martinache@gmail.com)
 - **LinkedIn :** [www.linkedin.com/in/aymeric-martinache-2748812b8](www.linkedin.com/in/aymeric-martinache-2748812b8)
-- **Mon CV :** [](https://aymericmartinache.github.io/AymericM.github.io/)
+- **Mon CV :** [https://aymericmartinache.github.io/AymericM.github.io/](https://aymericmartinache.github.io/AymericM.github.io/)
 
 Merci d'avoir pris le temps de consulter mon profil ! N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou opportunité professionnelle. 
 
