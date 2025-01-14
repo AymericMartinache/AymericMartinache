@@ -8,21 +8,16 @@ Je suis développeur web freelance avec une expertise en front-end, passionné p
 
 - 🖥️ **Développeur Full Stack**, spécialisé en front-end, utilisant principalement **React**, **Next.js**, et **Tailwind CSS**.
 - 🛠️ Compétences en back-end avec **Node.js**, **PHP**, et des bases de données relationnelles (**SQL**).
-- 🌱 Actuellement, j'approfondis mes connaissances en **Vue.JS** et en technologies de back-office comme **Firebase**.
+- 🌱 Actuellement, j'approfondis mes connaissances en **React Native** et en technologies de back-office comme **Express**.
 - 🏡 Basé à **Nantes**, France.
 
 ## 🔧 Technologies & Outils
 
 - **Langages :** JavaScript (React, Next.js), TypeScript, HTML5, CSS3, SQL
-- **Frameworks :** Next.js, React
-- **Outils :** Tailwind CSS, Firebase
+- **Frameworks :** Next.js, React, React Native
+- **Outils :** Tailwind CSS
 - **Bases de données :** MySQL, PostgreSQL
 - **Autres :** Git, GitHub, Figma, Mocodo (pour MCD / MLD), Trello
-
-## 🏆 Projets futurs et roadmap
-
-- 🚧 Création de mon portfolio en ligne, incluant mes projets récents.
-- 🛠️ Finalisation du projet de blog/site personnel avec gestion de contenu et intégration de fonctionnalités avancées.
 
 ## 🌐 Me contacter
 
